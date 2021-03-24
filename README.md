@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MFarchanF
+- 👋 Hi, I’m Farchan
 - 👀 I’m interested in programming, game, and UI/UX design
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on ...
