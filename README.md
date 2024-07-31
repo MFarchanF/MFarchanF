@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Farchan
 - 👀 I’m interested in programming, game, and UI/UX design
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web programming, data analytics, data science, and UI/UX Design
 
 <!---
 MFarchanF/MFarchanF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
